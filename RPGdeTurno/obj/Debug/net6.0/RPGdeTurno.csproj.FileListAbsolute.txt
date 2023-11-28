@@ -1,0 +1,14 @@
+D:\Projetos\RPGdeTurno\RPGdeTurno\bin\Debug\net6.0\RPGdeTurno.exe
+D:\Projetos\RPGdeTurno\RPGdeTurno\bin\Debug\net6.0\RPGdeTurno.deps.json
+D:\Projetos\RPGdeTurno\RPGdeTurno\bin\Debug\net6.0\RPGdeTurno.runtimeconfig.json
+D:\Projetos\RPGdeTurno\RPGdeTurno\bin\Debug\net6.0\RPGdeTurno.dll
+D:\Projetos\RPGdeTurno\RPGdeTurno\bin\Debug\net6.0\RPGdeTurno.pdb
+D:\Projetos\RPGdeTurno\RPGdeTurno\obj\Debug\net6.0\RPGdeTurno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\RPGdeTurno\RPGdeTurno\obj\Debug\net6.0\RPGdeTurno.AssemblyInfoInputs.cache
+D:\Projetos\RPGdeTurno\RPGdeTurno\obj\Debug\net6.0\RPGdeTurno.AssemblyInfo.cs
+D:\Projetos\RPGdeTurno\RPGdeTurno\obj\Debug\net6.0\RPGdeTurno.csproj.CoreCompileInputs.cache
+D:\Projetos\RPGdeTurno\RPGdeTurno\obj\Debug\net6.0\RPGdeTurno.dll
+D:\Projetos\RPGdeTurno\RPGdeTurno\obj\Debug\net6.0\refint\RPGdeTurno.dll
+D:\Projetos\RPGdeTurno\RPGdeTurno\obj\Debug\net6.0\RPGdeTurno.pdb
+D:\Projetos\RPGdeTurno\RPGdeTurno\obj\Debug\net6.0\RPGdeTurno.genruntimeconfig.cache
+D:\Projetos\RPGdeTurno\RPGdeTurno\obj\Debug\net6.0\ref\RPGdeTurno.dll
